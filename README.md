@@ -1,7 +1,7 @@
 # vscode-extensions
 My preferences for Visual Studio Code.
 
-• [Beutify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+• [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify){:target="_blank"}
 
 • [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
