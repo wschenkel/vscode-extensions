@@ -41,4 +41,4 @@ My preferences for Visual Studio Code.
 
 ### Theme
 
-• [Halcyon theme](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)
+• [Plastic Slate](https://marketplace.visualstudio.com/items?itemName=kayteh.plastic-slate)
